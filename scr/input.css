@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer utilities {
+    .linear-color {
+        @apply linear-gradient(to right, #FA5252, #DD2476)
+    }
+} */
